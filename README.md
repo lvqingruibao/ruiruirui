@@ -33,11 +33,10 @@ int main()
     
     return 0;
 }
- */
 
 //struct no.2(从键盘中输入和输出) 并使用嵌套
 
-/*
+
 #include <stdio.h>
 #define M 100
 #define N 3
@@ -77,7 +76,6 @@ int main()
     
 }
  
- */
 
 //struct no.3  结构体数组
 
